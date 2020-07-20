@@ -6,3 +6,4 @@ b=121;
 printf("%c,%c\n",a,b); 
 printf("%d,%d\n",a,b);
 }
+111222333
